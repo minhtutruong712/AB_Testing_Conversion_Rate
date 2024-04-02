@@ -12,4 +12,6 @@ The main processing notebook contains 3 parts:
 - Part 2: Ultilize A/B testing by divide the dataset into 2 groups: control group (old page) and treatment group (new page). Each group will be used to calculate the
   conversion rate (converted = 1 indicates users converted, else 0). Use these means to form hypothesis of testing whether Ho: p_old_page >= p_new_page can be rejected or not.
 - Part 3: Regression Approach to test the correlation between conversion rate and the region where the user lives.
+
+
   
